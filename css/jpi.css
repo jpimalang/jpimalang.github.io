@@ -508,3 +508,7 @@ fieldset[disabled] .btn-success.active {
   background-position: center center;
 }
 
+video {
+    width: 100%;
+    height: auto;
+}
