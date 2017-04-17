@@ -511,4 +511,5 @@ fieldset[disabled] .btn-success.active {
 video {
     width: 75%;
     height: auto;
+    position: center;
 }
